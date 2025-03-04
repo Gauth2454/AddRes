@@ -1,6 +1,6 @@
 {
     "name": "Add-Res",
-    "short_name": "GTGDB",
+    "short_name": "Add-Res",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#1abc9c",
